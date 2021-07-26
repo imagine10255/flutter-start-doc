@@ -36,9 +36,14 @@
 ## Method
 
 * [List&lt;dynamic&gt; map](method/map.md)
-* [MediaQuery](method/width-height.md)
 
 ## Example
 
 * [時間軸](example/shi-jian-zhou.md)
+
+## Feature Class
+
+* [MediaQuery](feature-class/width-height.md)
+* [StoreProvider](feature-class/storeprovider.md)
+* [I10n](feature-class/i10n.md)
 

@@ -56,6 +56,7 @@ Container(
 * 如果你只需要 靠左, 請使用 Align Widget
 * 如果你只需要 置中, 請使用 Center Widget
 * 如果你只需要 大小外框, 請使用 SizedBox Widget
+* 如果你只需要使用 decorated 屬性內容, 請使用 DecoratedBox
 * color 不可與 decoration / color 同時使用
 {% endhint %}
 

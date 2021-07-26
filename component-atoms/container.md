@@ -22,7 +22,7 @@ Container(
 
 | class | name | desc |
 | :--- | :--- | :--- |
-| alignment | alignment | 對齊 |
+| [Alignment](https://imagine10255.gitbook.io/fluuter_start_doc/attribute_class/alignment) | alignment | 對齊 |
 | [EdgeInsets](https://imagine10255.gitbook.io/fluuter_start_doc/attribute_class/edgeinsets) | padding | 內間距 |
 | [EdgeInsets](https://imagine10255.gitbook.io/fluuter_start_doc/attribute_class/edgeinsets) | margin | 外間距 |
 | [BoxDecoration](https://imagine10255.gitbook.io/fluuter_start_doc/attribute_class/box_decoration) | decoration | 背景裝飾\(線框, 圓角, 背景\) |

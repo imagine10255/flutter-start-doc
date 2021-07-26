@@ -22,6 +22,7 @@
 ## ATTRIBUTE CLASS <a id="attribute_class"></a>
 
 * [BoxDecoration](attribute_class/box_decoration.md)
+* [EdgeInsets](attribute_class/edgeinsets.md)
 
 ## Method
 

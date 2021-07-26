@@ -17,7 +17,7 @@ Padding(
 
 | Class | Name | Desc | Default |
 | :--- | :--- | :--- | :--- |
-| \*[EdgeInsets](../attribute_class/edgeinsets.md) | padding | 內間距 |  |
+| \*[EdgeInsets](../attribute-class/edgeinsets.md) | padding | 內間距 |  |
 | Widget | child | 內容 |  |
 
 

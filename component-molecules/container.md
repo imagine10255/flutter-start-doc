@@ -39,15 +39,15 @@ Container(
 
 | Class | Name | Desc | Default |
 | :--- | :--- | :--- | :--- |
-| [Alignment](../attribute_class/alignment.md) | alignment | 對齊 |  |
-| [EdgeInsets](../attribute_class/edgeinsets.md) | padding | 內間距 |  |
-| [EdgeInsets](../attribute_class/edgeinsets.md) | margin | 外間距 |  |
-| [BoxDecoration](../attribute_class/box_decoration.md) | decoration | 背景裝飾\(線框, 圓角, 背景\) |  |
-| [BoxDecoration](../attribute_class/box_decoration.md) | foregroundDecoration | 前景裝飾 |  |
+| [Alignment](../attribute-class/alignment-geometry.md) | alignment | 對齊 |  |
+| [EdgeInsets](../attribute-class/edgeinsets.md) | padding | 內間距 |  |
+| [EdgeInsets](../attribute-class/edgeinsets.md) | margin | 外間距 |  |
+| [BoxDecoration](../attribute-class/box-decoration.md) | decoration | 背景裝飾\(線框, 圓角, 背景\) |  |
+| [BoxDecoration](../attribute-class/box-decoration.md) | foregroundDecoration | 前景裝飾 |  |
 | double | width | 容器寬度 |  |
 | double | height | 容器高度 |  |
-| [Matrix4](../attribute_class/matrix4.md) | transform | 變換\(轉向, 放大縮小\) |  |
-| [BoxConstraints](../attribute_class/boxconstraints.md) | constraints | 容器大小限制 |  |
+| [Matrix4](../attribute-class/matrix4.md) | transform | 變換\(轉向, 放大縮小\) |  |
+| [BoxConstraints](../attribute-class/box-constraints.md) | constraints | 容器大小限制 |  |
 | Color | color | 背景顏色 |  |
 | Widget | child | 內容 |  |
 

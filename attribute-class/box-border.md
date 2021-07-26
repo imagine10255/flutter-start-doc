@@ -44,7 +44,7 @@ Border(
 
 ## BorderDirectional
 
-### 使用方式
+### 使用方法
 
 ```text
 BorderDirectional(

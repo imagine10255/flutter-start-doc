@@ -4,14 +4,19 @@
 
 ## Component/Atoms
 
-* [Container](component-atoms/container.md)
 * [Column, Row](component-atoms/column.md)
 * [Padding](component-atoms/padding.md)
 * [Align, Center](component-atoms/align-center.md)
 * [DecoratedBox](component-atoms/decoratedbox.md)
 * [SafeArea](component-atoms/safearea.md)
 * [Stack, Positioned](component-atoms/stack-positioned.md)
-* [CircleAvatar](component-atoms/circleavatar.md)
+* [Image](component-atoms/image.md)
+* [Expanded](component-atoms/expanded.md)
+
+## Component/Molecules
+
+* [Container](component-molecules/container.md)
+* [CircleAvatar](component-molecules/circleavatar.md)
 
 ## Components/Form <a id="components"></a>
 
@@ -32,8 +37,7 @@
 * [AlignmentGeometry](attribute_class/alignment.md)
 * [Matrix4](attribute_class/matrix4.md)
 * [BlendMode](attribute_class/blendmode.md)
-* [Gradient](attribute_class/gradient/README.md)
-  * [LinearGradient](attribute_class/gradient/lineargradient.md)
+* [Gradient](attribute_class/gradient.md)
 * [ImageProvider](attribute_class/imageprovider.md)
 
 ## Method

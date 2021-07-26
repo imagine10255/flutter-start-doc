@@ -4,7 +4,7 @@ description: 簡化版的 Container (單純只提供 decorated 屬性的 Widget)
 
 # DecoratedBox
 
-### 使用方式
+### 使用方法
 
 ### 屬性
 

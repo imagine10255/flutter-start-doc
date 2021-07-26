@@ -6,7 +6,7 @@ description: 圓角
 
 ## BorderRadius
 
-### 使用方式
+### 使用方法
 
 ```dart
 // 全部

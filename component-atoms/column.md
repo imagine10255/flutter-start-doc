@@ -10,7 +10,7 @@ description: 直列上到下排列方式的 Widget
 
 ![Column &#x6392;&#x5217;&#x65B9;&#x5411;](../.gitbook/assets/image%20%281%29.png)
 
-### 使用方式
+### 使用方法
 
 ```dart
 Column(
@@ -32,7 +32,7 @@ Column(
 
 ![Row &#x6392;&#x5217;&#x65B9;&#x5411;](../.gitbook/assets/image.png)
 
-### 使用方式
+### 使用方法
 
 ```dart
 Row(

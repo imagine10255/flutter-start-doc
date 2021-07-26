@@ -29,12 +29,20 @@ border:
     ),
 ```
 
+{% hint style="info" %}
+如果需要使用虛線外誆線, 可使用 dotted\_border 第三方套件的 DottedBorder 元件
+{% endhint %}
+
 ### **可使用該屬性的元件**
 
 * Container
-  * decoration
-* TextFormField
-  * decoration
+  * decoration: BoxDecoration
+    * border: Border
+    * borderRadius: BorderRadius
+* DropdownButtonFormField, TextFormField
+  * decoration: InputDecoration
+    * border: OutlineInputBorder
+      * borderRadius: BorderRadius
 
 
 

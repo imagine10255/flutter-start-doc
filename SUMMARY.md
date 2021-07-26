@@ -9,5 +9,5 @@
 
 ## Attribute
 
-* [attribute](attribute/attribute.md)
+* [Decoration](attribute/attribute.md)
 

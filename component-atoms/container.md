@@ -25,8 +25,8 @@ Container(
 | alignment | alignment | 對齊 |
 | EdgeInsets | padding | 內間距 |
 | EdgeInsets | margin | 外間距 |
-| Decoration | decoration | 背景裝飾\(線框, 圓角, 背景\) |
-| Decoration | foregroundDecoration | 前景裝飾 |
+| BoxDecoration | decoration | 背景裝飾\(線框, 圓角, 背景\) |
+| BoxDecoration | foregroundDecoration | 前景裝飾 |
 | double | width | 容器寬度 |
 | double | height | 容器高度 |
 |  | transform | 變換\(轉向, 放大縮小\) |

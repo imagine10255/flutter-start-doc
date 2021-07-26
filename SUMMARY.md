@@ -7,6 +7,7 @@
 * [Container](component-atoms/container.md)
 * [Column, Row](component-atoms/column.md)
 * [Padding](component-atoms/padding.md)
+* [Align, Center](component-atoms/align-center.md)
 
 ## Components/Form <a id="components"></a>
 

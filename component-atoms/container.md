@@ -39,22 +39,26 @@ Container(
 
 | class | name | desc |
 | :--- | :--- | :--- |
-| [Alignment](https://imagine10255.gitbook.io/fluuter_start_doc/attribute_class/alignment) | alignment | 對齊 |
-| [EdgeInsets](https://imagine10255.gitbook.io/fluuter_start_doc/attribute_class/edgeinsets) | padding | 內間距 |
-| [EdgeInsets](https://imagine10255.gitbook.io/fluuter_start_doc/attribute_class/edgeinsets) | margin | 外間距 |
-| [BoxDecoration](https://imagine10255.gitbook.io/fluuter_start_doc/attribute_class/box_decoration) | decoration | 背景裝飾\(線框, 圓角, 背景\) |
-| [BoxDecoration](https://imagine10255.gitbook.io/fluuter_start_doc/attribute_class/box_decoration) | foregroundDecoration | 前景裝飾 |
+| [Alignment](../attribute_class/alignment.md) | alignment | 對齊 |
+| [EdgeInsets](../attribute_class/edgeinsets.md) | padding | 內間距 |
+| [EdgeInsets](../attribute_class/edgeinsets.md) | margin | 外間距 |
+| [BoxDecoration](../attribute_class/box_decoration.md) | decoration | 背景裝飾\(線框, 圓角, 背景\) |
+| [BoxDecoration](../attribute_class/box_decoration.md) | foregroundDecoration | 前景裝飾 |
 | double | width | 容器寬度 |
 | double | height | 容器高度 |
-| Matrix4 | transform | 變換\(轉向, 放大縮小\) |
-| BoxConstraints | constraints | 容器大小限制 |
+| [Matrix4](../attribute_class/matrix4.md) | transform | 變換\(轉向, 放大縮小\) |
+| [BoxConstraints](../attribute_class/boxconstraints.md) | constraints | 容器大小限制 |
+| Color | color | 背景顏色 |
 | Widget | child | 內容 |
 
 {% hint style="info" %}
-如果你只需要 padding, 請使用 Padding widget  
-如果你只需要 靠左, 請使用 Align widget  
-如果你只需要 置中, 請使用 Center widget
+* 如果你只需要 padding, 請使用 Padding widget
+* 如果你只需要 靠左, 請使用 Align widget
+* 如果你只需要 置中, 請使用 Center widget
+* color 不可與 decoration / color 同時使用
 {% endhint %}
+
+
 
 
 

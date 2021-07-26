@@ -52,13 +52,19 @@ Container(
 | Widget | child | 內容 |
 
 {% hint style="info" %}
-* 如果你只需要 padding, 請使用 Padding widget
-* 如果你只需要 靠左, 請使用 Align widget
-* 如果你只需要 置中, 請使用 Center widget
+* 如果你只需要 padding, 請使用 Padding Widget
+* 如果你只需要 靠左, 請使用 Align Widget
+* 如果你只需要 置中, 請使用 Center Widget
+* 如果你只需要 大小外框, 請使用 SizedBox Widget
 * color 不可與 decoration / color 同時使用
 {% endhint %}
 
+### 用於寬度100時可使用
 
+```dart
+width: MediaQuery.of(context).size.width,
+height: MediaQuery.of(context).size.height,
+```
 
 
 

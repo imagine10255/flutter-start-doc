@@ -15,19 +15,18 @@
 
 ## Attribute
 
-* [width, height](attribute/width-height.md)
-* [padding](attribute/padding.md)
 * [border](attribute/border.md)
 
 ## ATTRIBUTE CLASS <a id="attribute_class"></a>
 
 * [BoxDecoration](attribute_class/box_decoration.md)
 * [BoxConstraints](attribute_class/boxconstraints.md)
-* [EdgeInsets](attribute_class/edgeinsets.md)
+* [EdgeInsets \(padding, magin\)](attribute_class/edgeinsets.md)
 * [Alignment](attribute_class/alignment.md)
 * [Matrix4](attribute_class/matrix4.md)
 
 ## Method
 
-* [map](method/map.md)
+* [List&lt;dynamic&gt; map](method/map.md)
+* [MediaQuery](method/width-height.md)
 

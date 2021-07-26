@@ -15,10 +15,10 @@ Padding(
 
 ### 屬性
 
-| class | name | desc |
-| :--- | :--- | :--- |
-| [EdgeInsets](../attribute_class/edgeinsets.md) | padding | 內間距 |
-| Widget? | child | 內容 |
+| Class | Name | Desc | Default |
+| :--- | :--- | :--- | :--- |
+| \*[EdgeInsets](../attribute_class/edgeinsets.md) | padding | 內間距 |  |
+| Widget | child | 內容 |  |
 
 
 

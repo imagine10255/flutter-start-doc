@@ -25,11 +25,13 @@
 * [BoxConstraints](attribute_class/boxconstraints.md)
 * [BoxBorder](attribute_class/boxborder.md)
 * [BoxShadow](attribute_class/boxshadow.md)
+* [BoxShape](attribute_class/boxshape.md)
 * [BorderRadius](attribute_class/borderradius.md)
 * [DecorationImage](attribute_class/decorationimage.md)
 * [EdgeInsets \(padding, magin\)](attribute_class/edgeinsets.md)
 * [Alignment](attribute_class/alignment.md)
 * [Matrix4](attribute_class/matrix4.md)
+* [BlendMode](attribute_class/blendmode.md)
 * [Gradient](attribute_class/gradient/README.md)
   * [LinearGradient](attribute_class/gradient/lineargradient.md)
 

@@ -23,6 +23,7 @@
 
 * [BoxDecoration](attribute_class/box_decoration.md)
 * [EdgeInsets](attribute_class/edgeinsets.md)
+* [Alignment](attribute_class/alignment.md)
 
 ## Method
 

@@ -19,3 +19,7 @@
 * [padding](attribute/padding.md)
 * [border](attribute/border.md)
 
+## Method
+
+* [map](method/map.md)
+

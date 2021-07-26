@@ -29,3 +29,12 @@ border:
     ),
 ```
 
+### **可使用該屬性的元件**
+
+* Container
+  * decoration
+* TextFormField
+  * decoration
+
+
+

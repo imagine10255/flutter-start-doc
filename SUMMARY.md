@@ -17,4 +17,5 @@
 * [width, height](attribute/width-height.md)
 * [decoration](attribute/attribute.md)
 * [padding](attribute/padding.md)
+* [border](attribute/border.md)
 

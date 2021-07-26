@@ -3,8 +3,6 @@
 * [Initial page](README.md)
 * [Untitled](untitled.md)
 
-## Block <a id="component-div"></a>
-
 ## components
 
 * [Atoms](components/atoms/README.md)

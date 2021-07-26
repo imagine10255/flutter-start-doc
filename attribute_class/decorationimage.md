@@ -14,12 +14,14 @@ DecorationImage(
 
 | Class | Name | Desc | Default |
 | :--- | :--- | :--- | :--- |
-| ImageProvider | image | 圖片 |  |
+| [ImageProvider](imageprovider.md) | image | 圖片 |  |
 | ImageErrorListener | onError | 當圖片載入錯誤 |  |
 | ColorFilter | colorFilter | 圖片濾鏡 |  |
 | BoxFit | fit | 圖片顯示方式 |  |
-| AlignmentGeometry | alignment | 圖片對齊方式 |  |
+| [AlignmentGeometry](alignment.md) | alignment | 圖片對齊方式 |  |
 | Rect | centerSlice |  |  |
 | matchTextDirection | repeat | 重複顯示方式 |  |
 | double | scale | 比例放大縮小 |  |
+
+
 

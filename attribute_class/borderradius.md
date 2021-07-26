@@ -2,7 +2,9 @@
 description: 圓角
 ---
 
-# BorderRadius
+# BorderRadiusGeometry
+
+## BorderRadius
 
 ### 使用方式
 

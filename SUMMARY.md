@@ -10,10 +10,13 @@
 * [Align, Center](component-atoms/align-center.md)
 * [DecoratedBox](component-atoms/decoratedbox.md)
 * [SafeArea](component-atoms/safearea.md)
+* [Stack, Positioned](component-atoms/stack-positioned.md)
+* [CircleAvatar](component-atoms/circleavatar.md)
 
 ## Components/Form <a id="components"></a>
 
 * [TextField](components/textfield.md)
+* [Button](components/button.md)
 
 ## ATTRIBUTE CLASS <a id="attribute_class"></a>
 
@@ -22,11 +25,11 @@
 * [BoxBorder](attribute_class/boxborder.md)
 * [BoxShadow](attribute_class/boxshadow.md)
 * [BoxShape](attribute_class/boxshape.md)
-* [BorderRadius](attribute_class/borderradius.md)
+* [BorderRadiusGeometry](attribute_class/borderradius.md)
 * [BorderSide](attribute_class/borderside.md)
 * [DecorationImage](attribute_class/decorationimage.md)
 * [EdgeInsets \(padding, magin\)](attribute_class/edgeinsets.md)
-* [Alignment](attribute_class/alignment.md)
+* [AlignmentGeometry](attribute_class/alignment.md)
 * [Matrix4](attribute_class/matrix4.md)
 * [BlendMode](attribute_class/blendmode.md)
 * [Gradient](attribute_class/gradient/README.md)

@@ -18,10 +18,10 @@
 * [Container](component-molecules/container.md)
 * [CircleAvatar](component-molecules/circleavatar.md)
 
-## Components/Form <a id="components"></a>
+## Components/Form
 
-* [TextField](components/textfield.md)
-* [Button](components/button.md)
+* [TextField](components-form/textfield.md)
+* [Button](components-form/button.md)
 
 ## ATTRIBUTE CLASS <a id="attribute_class"></a>
 

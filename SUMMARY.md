@@ -8,6 +8,7 @@
 * [Column, Row](component-atoms/column.md)
 * [Padding](component-atoms/padding.md)
 * [Align, Center](component-atoms/align-center.md)
+* [SafeArea](component-atoms/safearea.md)
 
 ## Components/Form <a id="components"></a>
 

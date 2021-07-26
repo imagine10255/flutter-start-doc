@@ -22,8 +22,10 @@
 ## ATTRIBUTE CLASS <a id="attribute_class"></a>
 
 * [BoxDecoration](attribute_class/box_decoration.md)
+* [BoxConstraints](attribute_class/boxconstraints.md)
 * [EdgeInsets](attribute_class/edgeinsets.md)
 * [Alignment](attribute_class/alignment.md)
+* [Matrix4](attribute_class/matrix4.md)
 
 ## Method
 

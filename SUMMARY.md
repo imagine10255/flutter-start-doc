@@ -19,9 +19,7 @@
 
 * [BoxDecoration](attribute_class/box_decoration.md)
 * [BoxConstraints](attribute_class/boxconstraints.md)
-* [BoxBorder](attribute_class/boxborder/README.md)
-  * [Border](attribute_class/boxborder/border.md)
-  * [BorderDirectional](attribute_class/boxborder/borderdirectional.md)
+* [BoxBorder](attribute_class/boxborder.md)
 * [BoxShadow](attribute_class/boxshadow.md)
 * [BoxShape](attribute_class/boxshape.md)
 * [BorderRadius](attribute_class/borderradius.md)
@@ -33,6 +31,7 @@
 * [BlendMode](attribute_class/blendmode.md)
 * [Gradient](attribute_class/gradient/README.md)
   * [LinearGradient](attribute_class/gradient/lineargradient.md)
+* [ImageProvider](attribute_class/imageprovider.md)
 
 ## Method
 

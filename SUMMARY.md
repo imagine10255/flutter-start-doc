@@ -15,10 +15,6 @@
 
 * [TextField](components/textfield.md)
 
-## Attribute
-
-* [border](attribute/border.md)
-
 ## ATTRIBUTE CLASS <a id="attribute_class"></a>
 
 * [BoxDecoration](attribute_class/box_decoration.md)
@@ -29,6 +25,7 @@
 * [BoxShadow](attribute_class/boxshadow.md)
 * [BoxShape](attribute_class/boxshape.md)
 * [BorderRadius](attribute_class/borderradius.md)
+* [BorderSide](attribute_class/borderside.md)
 * [DecorationImage](attribute_class/decorationimage.md)
 * [EdgeInsets \(padding, magin\)](attribute_class/edgeinsets.md)
 * [Alignment](attribute_class/alignment.md)

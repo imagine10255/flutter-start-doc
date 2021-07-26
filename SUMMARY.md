@@ -23,7 +23,8 @@
 
 * [BoxDecoration](attribute_class/box_decoration.md)
 * [BoxConstraints](attribute_class/boxconstraints.md)
-* [BoxBorder](attribute_class/boxborder.md)
+* [BoxBorder](attribute_class/boxborder/README.md)
+  * [Border](attribute_class/boxborder/border.md)
 * [BoxShadow](attribute_class/boxshadow.md)
 * [BoxShape](attribute_class/boxshape.md)
 * [BorderRadius](attribute_class/borderradius.md)

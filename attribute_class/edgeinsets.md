@@ -17,11 +17,6 @@ padding: EdgeInsets.symmetric(horizontal: 0),
 padding: EdgeInsets.only(right: 5.0),
 ```
 
-### **可使用該屬性的元件**
-
-* Container
-* Padding
-
 ### 參考連結
 
 [https://api.flutter.dev/flutter/painting/EdgeInsets-class.html](https://api.flutter.dev/flutter/painting/EdgeInsets-class.html)

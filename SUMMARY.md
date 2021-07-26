@@ -2,14 +2,16 @@
 
 * [Initial page](README.md)
 
-## components
+## Component/Atoms
 
-* [Atoms](components/atoms/README.md)
-  * [Container](components/atoms/container.md)
-  * [Row](components/atoms/row.md)
-  * [Column](components/atoms/column.md)
-* [Form](components/form/README.md)
-  * [TextField](components/form/textfield.md)
+* [Container](component-atoms/container.md)
+* [Row](component-atoms/row.md)
+* [Column](component-atoms/column.md)
+* [Padding](component-atoms/padding.md)
+
+## Components/Form <a id="components"></a>
+
+* [TextField](components/textfield.md)
 
 ## Attribute
 

@@ -8,7 +8,7 @@ description: 最基礎的容器 類似於Web 的 div
 
 ```dart
 Container(
-    decoration: BoxDecoration(
+  decoration: BoxDecoration(
     image: DecorationImage(
       alignment: Alignment.bottomRight,
       image: AssetImage("assets/sample/home_banner_1.jpg"),
@@ -24,9 +24,9 @@ Container(
 | :--- | :--- | :--- |
 | alignment | alignment | 對齊 |
 | EdgeInsets | padding | 內間距 |
-|  | margin | 外間距 |
+| EdgeInsets | margin | 外間距 |
 | Decoration | decoration | 背景裝飾\(線框, 圓角, 背景\) |
-| Decoration | foregroundDecoration |  前景裝飾 |
+| Decoration | foregroundDecoration | 前景裝飾 |
 | double | width | 容器寬度 |
 | double | height | 容器高度 |
 |  | transform | 變換\(轉向, 放大縮小\) |

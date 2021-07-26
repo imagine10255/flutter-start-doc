@@ -16,9 +16,12 @@
 ## Attribute
 
 * [width, height](attribute/width-height.md)
-* [decoration](attribute/attribute.md)
 * [padding](attribute/padding.md)
 * [border](attribute/border.md)
+
+## ATTRIBUTE CLASS <a id="attribute_class"></a>
+
+* [BoxDecoration](attribute_class/box_decoration.md)
 
 ## Method
 

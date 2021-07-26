@@ -2,7 +2,7 @@
 description: 進階容器額外屬性
 ---
 
-# Decoration
+# decoration
 
 ### Decoration Class介绍
 

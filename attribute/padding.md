@@ -2,9 +2,11 @@
 description: '內間距, 一般元件在 Flutter 沒有提供 Margin 外間距'
 ---
 
-# Padding
+# padding
 
-> 如果你只是需要將容器或元件加上間距, 可使用 Padding 再加上該屬性即可
+{% hint style="info" %}
+如果你只是需要將容器或元件加上間距, 可使用 Padding 再加上該屬性即可
+{% endhint %}
 
 ### 使用方式
 

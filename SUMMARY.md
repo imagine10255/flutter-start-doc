@@ -5,8 +5,7 @@
 ## Component/Atoms
 
 * [Container](component-atoms/container.md)
-* [Row](component-atoms/row.md)
-* [Column](component-atoms/column.md)
+* [Column, Row](component-atoms/column.md)
 * [Padding](component-atoms/padding.md)
 
 ## Components/Form <a id="components"></a>
@@ -15,7 +14,7 @@
 
 ## Attribute
 
-* [Width, Height](attribute/width-height.md)
-* [Decoration](attribute/attribute.md)
-* [Padding](attribute/padding.md)
+* [width, height](attribute/width-height.md)
+* [decoration](attribute/attribute.md)
+* [padding](attribute/padding.md)
 

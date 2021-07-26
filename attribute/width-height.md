@@ -2,7 +2,7 @@
 description: '寬度, 高度'
 ---
 
-# Width, Height
+# width, height
 
 ### 使用方式
 

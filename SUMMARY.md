@@ -29,7 +29,6 @@
 ## ATTRIBUTE CLASS
 
 * [AlignmentGeometry](attribute-class/alignment-geometry.md)
-* [BoxDecoration](attribute-class/box-decoration.md)
 * [BoxConstraints](attribute-class/box-constraints.md)
 * [BoxBorder](attribute-class/box-border.md)
 * [BoxShadow](attribute-class/box-shadow.md)
@@ -38,11 +37,15 @@
 * [BorderSide](attribute-class/border-side.md)
 * [BlendMode](attribute-class/blend-mode.md)
 * [Clip](attribute-class/clip.md)
+* [CrossAxisAlignment](attribute-class/cross-axis-alignment.md)
 * [DecorationImage](attribute-class/decoration-image.md)
+* [Decoration](attribute-class/decoration.md)
 * [EdgeInsets \(padding, magin\)](attribute-class/edgeinsets.md)
 * [Gradient](attribute-class/gradient.md)
 * [ImageProvider](attribute-class/image-provider.md)
 * [Matrix4](attribute-class/matrix4.md)
+* [MainAxisAlignment](attribute-class/main-axis-alignment.md)
+* [MainAxisSize](attribute-class/main-axis-size.md)
 * [Offset](attribute-class/offset.md)
 * [StackFit](attribute-class/stack-fit.md)
 * [TextDirection](attribute-class/text-direction.md)

@@ -13,6 +13,7 @@
 * [SizedBox](component-atoms/sized-box.md)
 * [SafeArea](component-atoms/safe-area.md)
 * [Stack, Positioned](component-atoms/stack-positioned.md)
+* [Transform](component-atoms/transform.md)
 * [Image](component-atoms/image.md)
 
 ## Component/Molecules
@@ -27,6 +28,7 @@
 
 ## ATTRIBUTE CLASS
 
+* [AlignmentGeometry](attribute-class/alignment-geometry.md)
 * [BoxDecoration](attribute-class/box-decoration.md)
 * [BoxConstraints](attribute-class/box-constraints.md)
 * [BoxBorder](attribute-class/box-border.md)
@@ -34,14 +36,14 @@
 * [BoxShape](attribute-class/box-shape.md)
 * [BorderRadiusGeometry](attribute-class/border-radius-geometry.md)
 * [BorderSide](attribute-class/border-side.md)
+* [BlendMode](attribute-class/blend-mode.md)
 * [Clip](attribute-class/clip.md)
 * [DecorationImage](attribute-class/decoration-image.md)
 * [EdgeInsets \(padding, magin\)](attribute-class/edgeinsets.md)
-* [AlignmentGeometry](attribute-class/alignment-geometry.md)
-* [Matrix4](attribute-class/matrix4.md)
-* [BlendMode](attribute-class/blend-mode.md)
 * [Gradient](attribute-class/gradient.md)
 * [ImageProvider](attribute-class/image-provider.md)
+* [Matrix4](attribute-class/matrix4.md)
+* [Offset](attribute-class/offset.md)
 * [StackFit](attribute-class/stack-fit.md)
 * [TextDirection](attribute-class/text-direction.md)
 

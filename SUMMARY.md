@@ -29,6 +29,7 @@
 * [Button](component/button.md)
 * [CircleAvatar](component/circle-avatar.md)
 * [Image](component/image.md)
+* [TabBar](component/tab-bar.md)
 
 ## Form
 

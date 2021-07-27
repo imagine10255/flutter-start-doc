@@ -42,8 +42,8 @@ Container(
 | [Alignment](../attribute-class/alignment-geometry.md) | alignment | 對齊 |  |
 | [EdgeInsets](../attribute-class/edgeinsets.md) | padding | 內間距 |  |
 | [EdgeInsets](../attribute-class/edgeinsets.md) | margin | 外間距 |  |
-| [BoxDecoration]() | decoration | 背景裝飾\(線框, 圓角, 背景\) |  |
-| [BoxDecoration]() | foregroundDecoration | 前景裝飾 |  |
+| [Decoration](../attribute-class/decoration.md) | decoration | 背景裝飾\(線框, 圓角, 背景\) |  |
+| [Decoration](../attribute-class/decoration.md) | foregroundDecoration | 前景裝飾 |  |
 | double | width | 容器寬度 |  |
 | double | height | 容器高度 |  |
 | [Matrix4](../attribute-class/matrix4.md) | transform | 變換\(轉向, 放大縮小\) |  |

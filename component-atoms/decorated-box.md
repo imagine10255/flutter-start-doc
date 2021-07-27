@@ -29,9 +29,13 @@ DecoratedBox(
 
 | Class | Name | Desc | Default |
 | :--- | :--- | :--- | :--- |
-| Decoration | decoration | 前景背景裝飾 |  |
-| DecorationPosition | position |  |  |
+| [Decoration](../attribute-class/decoration.md) | decoration | 前景背景裝飾 |  |
+| DecorationPosition | position | 類型 | DecorationPosition.background |
 | Widget | child | 內容 |  |
+
+* position:
+  * DecorationPosition.background 背景
+  * DecorationPosition.foreground 前景
 
 ### 參考連結
 

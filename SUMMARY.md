@@ -15,16 +15,16 @@
 * [SafeArea](grid/safe-area.md)
 * [Stack, Positioned](grid/stack-positioned.md)
 * [Transform](grid/transform.md)
-* [Image](grid/image.md)
 
-## Component/Molecules
+## Component
 
-* [CircleAvatar](component-molecules/circle-avatar.md)
+* [Button](component/button.md)
+* [CircleAvatar](component/circle-avatar.md)
+* [Image](component/image.md)
 
-## Components/Form
+## Form
 
-* [Button](components-form/button.md)
-* [TextField](components-form/text-field.md)
+* [TextField](form/text-field.md)
 
 ## ATTRIBUTE CLASS
 

@@ -16,7 +16,7 @@
 * [Column, Row](grid/column-row.md)
 * [ClipRRect](grid/cliprrect.md)
 * [DecoratedBox](grid/decorated-box.md)
-* [Expanded](grid/expanded.md)
+* [Flexible, Expanded](grid/flexible-expanded.md)
 * [Padding](grid/padding.md)
 * [RotatedBox](grid/rotated-box.md)
 * [SizedBox](grid/sized-box.md)

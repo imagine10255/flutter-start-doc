@@ -4,15 +4,16 @@
 
 ## Component/Atoms
 
-* [Column, Row](component-atoms/column-row.md)
-* [Padding](component-atoms/padding.md)
 * [Align, Center](component-atoms/align-center.md)
+* [Column, Row](component-atoms/column-row.md)
 * [DecoratedBox](component-atoms/decorated-box.md)
+* [Expanded](component-atoms/expanded.md)
+* [Padding](component-atoms/padding.md)
 * [RotatedBox](component-atoms/rotated-box.md)
+* [SizedBox](component-atoms/sized-box.md)
 * [SafeArea](component-atoms/safe-area.md)
 * [Stack, Positioned](component-atoms/stack-positioned.md)
 * [Image](component-atoms/image.md)
-* [Expanded](component-atoms/expanded.md)
 
 ## Component/Molecules
 

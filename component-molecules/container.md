@@ -52,11 +52,12 @@ Container(
 | Widget | child | 內容 |  |
 
 {% hint style="info" %}
-* 如果你只需要 padding, 請使用 Padding Widget
-* 如果你只需要 靠左, 請使用 Align Widget
-* 如果你只需要 置中, 請使用 Center Widget
-* 如果你只需要 大小外框, 請使用 SizedBox Widget
-* 如果你只需要使用 decorated 屬性內容, 請使用 DecoratedBox
+* 如果你只需要 padding, 請使用 [Padding](../component-atoms/padding.md) Widget
+* 如果你只需要 靠左, 請使用 [Align](../component-atoms/align-center.md) Widget
+* 如果你只需要 置中, 請使用 [Center](../component-atoms/align-center.md#center) Widget
+* 如果你只需要 空間容器, 請使用 [SizedBox](../component-atoms/sized-box.md) Widget
+* 如果你只需要 轉向, 請使用 [RotatedBox](../component-atoms/rotated-box.md) Widget
+* 如果你只需要使用 decorated 屬性內容, 請使用 [DecoratedBox](../component-atoms/decorated-box.md) Widget
 * color 不可與 decoration / color 同時使用
 {% endhint %}
 

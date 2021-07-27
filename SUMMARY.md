@@ -8,6 +8,7 @@
 * [Padding](component-atoms/padding.md)
 * [Align, Center](component-atoms/align-center.md)
 * [DecoratedBox](component-atoms/decorated-box.md)
+* [RotatedBox](component-atoms/rotated-box.md)
 * [SafeArea](component-atoms/safe-area.md)
 * [Stack, Positioned](component-atoms/stack-positioned.md)
 * [Image](component-atoms/image.md)
@@ -32,6 +33,7 @@
 * [BoxShape](attribute-class/box-shape.md)
 * [BorderRadiusGeometry](attribute-class/border-radius-geometry.md)
 * [BorderSide](attribute-class/border-side.md)
+* [Clip](attribute-class/clip.md)
 * [DecorationImage](attribute-class/decoration-image.md)
 * [EdgeInsets \(padding, magin\)](attribute-class/edgeinsets.md)
 * [AlignmentGeometry](attribute-class/alignment-geometry.md)
@@ -39,6 +41,8 @@
 * [BlendMode](attribute-class/blend-mode.md)
 * [Gradient](attribute-class/gradient.md)
 * [ImageProvider](attribute-class/image-provider.md)
+* [StackFit](attribute-class/stack-fit.md)
+* [TextDirection](attribute-class/text-direction.md)
 
 ## Method
 

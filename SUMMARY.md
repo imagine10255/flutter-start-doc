@@ -2,11 +2,19 @@
 
 * [Initial page](README.md)
 
+## Layout
+
+* [AppBar](layout/app-bar.md)
+* [BottomNavigationBar](layout/bottom-navigation-bar.md)
+* [MaterialApp](layout/material-app.md)
+* [Scaffold](layout/scaffold.md)
+
 ## Grid
 
 * [Align, Center](grid/align-center.md)
 * [Container](grid/container.md)
 * [Column, Row](grid/column-row.md)
+* [ClipRRect](grid/cliprrect.md)
 * [DecoratedBox](grid/decorated-box.md)
 * [Expanded](grid/expanded.md)
 * [Padding](grid/padding.md)

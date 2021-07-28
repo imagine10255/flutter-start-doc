@@ -24,7 +24,7 @@ BottomNavigationBar(
 
 ### 進階用法
 
-配合 PageControl, PageView 做 animateToPage 來達成 帶左右移動的切換效果  
+配合 PageControl, [PageView](../grid/pageview.md) 做 animateToPage 來達成 帶左右移動的切換效果  
 CustomBottomNavigationBar = BottomNavigationBar
 
 ```dart

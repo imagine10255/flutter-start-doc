@@ -9,7 +9,7 @@ in `./build.yaml`
 1. run command
 
    ```text
-   $ flutter packages pub run build_runner watch
+   $ flutter packages pub run build_runner watch --delete-conflicting-outputs
    ```
 
 2. open [quicktype](https://app.quicktype.io/) website

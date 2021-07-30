@@ -12,7 +12,7 @@ in `./build.yaml`
    $ flutter packages pub run build_runner watch --delete-conflicting-outputs
    ```
 
-2. open [quicktype](https://app.quicktype.io/) website
+2. open [json2dart-model ](https://imagine10255.github.io/json2dart-model/)website
 3.  copy your json string
 
 ```dart
@@ -40,9 +40,7 @@ class System {
 if you need use one, run commend
 
 ```bash
-$ flutter packages pub run build_runner build
+$ flutter packages pub run build_runner build --delete-conflicting-outputs
 ```
 {% endhint %}
-
-![](../.gitbook/assets/image%20%282%29.png)
 

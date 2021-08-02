@@ -55,6 +55,7 @@
 * [Decoration](attribute-class/decoration.md)
 * [EdgeInsets \(padding, magin\)](attribute-class/edgeinsets.md)
 * [Gradient](attribute-class/gradient.md)
+* [GradientTransform](attribute-class/gradienttransform.md)
 * [ImageProvider](attribute-class/image-provider.md)
 * [Matrix4](attribute-class/matrix4.md)
 * [MainAxisAlignment](attribute-class/main-axis-alignment.md)
@@ -62,6 +63,7 @@
 * [Offset](attribute-class/offset.md)
 * [StackFit](attribute-class/stack-fit.md)
 * [TextDirection](attribute-class/text-direction.md)
+* [TileMode](attribute-class/tilemode.md)
 
 ## Method
 

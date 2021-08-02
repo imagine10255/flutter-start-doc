@@ -17,6 +17,7 @@
 * [ClipRRect](grid/cliprrect.md)
 * [DecoratedBox](grid/decorated-box.md)
 * [Flexible, Expanded](grid/flexible-expanded.md)
+* [GestureDetector](grid/gesturedetector.md)
 * [ListView](grid/list-view.md)
 * [Padding](grid/padding.md)
 * [PageView](grid/pageview.md)

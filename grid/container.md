@@ -57,6 +57,7 @@ Container(
 * 如果你只需要 置中, 請使用 [Center](align-center.md#center) Widget
 * 如果你只需要 空間容器, 請使用 [SizedBox](sized-box.md) Widget
 * 如果你只需要 轉向, 請使用 [RotatedBox](rotated-box.md) Widget
+* 如果你只需要 點擊事件, 請使用 [GestureDetector](gesturedetector.md) Widget
 * 如果你只需要使用 decorated 屬性內容, 請使用 [DecoratedBox](decorated-box.md) Widget
 * color 不可與 decoration / color 同時使用
 {% endhint %}

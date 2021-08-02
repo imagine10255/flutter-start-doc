@@ -1,6 +1,12 @@
+---
+description: 漸層變色
+---
+
 # Gradient
 
 ## LinearGradient
+
+![&#x793A;&#x610F;&#x5716;](../.gitbook/assets/cleanshot-2021-08-02-at-10.27.34.jpg)
 
 ```text
 LinearGradient(

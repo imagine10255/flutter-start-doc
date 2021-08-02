@@ -28,10 +28,16 @@ LinearGradient(
 
 | Class | Name | Desc | Default |
 | :--- | :--- | :--- | :--- |
-| [AlignmentGeometry](alignment-geometry.md) | begin | 內間距 |  |
-| [AlignmentGeometry](alignment-geometry.md) | end | 內容 |  |
-| List&lt;double&gt; | stops |  |  |
+| [AlignmentGeometry](alignment-geometry.md) | begin | 開始方向 |  |
+| [AlignmentGeometry](alignment-geometry.md) | end | 結束方向 |  |
+| List&lt;double&gt; | stops | 漸層佔比 |  |
 | List&lt;Color&gt; | colors | 顏色 |  |
-| TileMode | tileMode |  |  |
-| [GradientTransform](gradienttransform.md) | transform |  |  |
+| [TileMode](tilemode.md) | tileMode | 效果 |  |
+| [GradientTransform](gradienttransform.md) | transform | 變形 |  |
+
+### 參考連結
+
+{% embed url="https://www.jianshu.com/p/d29eab4e933c" %}
+
+
 

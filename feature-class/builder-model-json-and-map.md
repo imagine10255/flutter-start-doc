@@ -40,11 +40,17 @@ class System {
 if you need use one, run commend
 
 ```bash
+# 更新
+$ flutter packages pub run build_runner build
+
+# 刪除重建
 $ flutter packages pub run build_runner build --delete-conflicting-outputs
 ```
 {% endhint %}
 
 ![](../.gitbook/assets/cleanshot-2021-08-06-at-14.42.20.jpg)
+
+
 
 ![](../.gitbook/assets/cleanshot-2021-08-06-at-14.45.14.jpg)
 

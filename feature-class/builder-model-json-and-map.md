@@ -48,6 +48,8 @@ $ flutter packages pub run build_runner build --delete-conflicting-outputs
 ```
 {% endhint %}
 
+## 調整IDEA做目錄GROUP
+
 ![](../.gitbook/assets/cleanshot-2021-08-06-at-14.42.20.jpg)
 
 

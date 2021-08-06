@@ -27,6 +27,7 @@
 * [Stack, Positioned](grid/stack-positioned.md)
 * [SingleChildScrollView](grid/single-child-scroll-view.md)
 * [Transform](grid/transform.md)
+* [Text, RichText, TextSpan](grid/text-richtext-textspan.md)
 
 ## Component
 

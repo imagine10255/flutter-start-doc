@@ -1,4 +1,10 @@
+---
+description: 動畫控制器
+---
+
 # AnimationController
+
+
 
 {% hint style="info" %}
 forward 正向  

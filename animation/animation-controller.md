@@ -4,7 +4,7 @@ description: 動畫控制器
 
 # AnimationController
 
-## 旋轉動畫
+## 
 
 {% hint style="info" %}
 forward 正向  
@@ -12,6 +12,8 @@ reverse 反向
 repeat 重複動畫  
 如果在 ..repeat\(reverse: true\) 則會正向動畫後 進行反向動畫, 再循環
 {% endhint %}
+
+## RotationTransition 旋轉動畫
 
 ```dart
 import 'package:flutter/material.dart';

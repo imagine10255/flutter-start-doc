@@ -66,3 +66,5 @@ class _RefreshAmountButtonState extends State<RefreshAmountButton> with TickerPr
 }
 ```
 
+![](../.gitbook/assets/cleanshot-2021-08-07-at-12.40.56.gif)
+

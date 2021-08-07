@@ -42,6 +42,10 @@
 * [TextField](form/text-field.md)
 * [Select](form/select.md)
 
+## Animation
+
+* [AnimationController](animation/animation-controller.md)
+
 ## ATTRIBUTE CLASS
 
 * [AlignmentGeometry](attribute-class/alignment-geometry.md)

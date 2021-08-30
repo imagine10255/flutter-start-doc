@@ -9,7 +9,7 @@ in `./build.yaml`
 1. run command
 
    ```text
-   $ flutter packages pub run build_runner watch --delete-conflicting-outputs
+   $ flutter pub run build_runner watch --delete-conflicting-outputs
    ```
 
 2. open [json2dart-model ](https://imagine10255.github.io/json2dart-model/)website
@@ -41,10 +41,10 @@ if you need use one, run commend
 
 ```bash
 # 更新
-$ flutter packages pub run build_runner build
+$ flutter pub run build_runner build
 
 # 刪除重建
-$ flutter packages pub run build_runner build --delete-conflicting-outputs
+$ flutter pub run build_runner build --delete-conflicting-outputs
 ```
 {% endhint %}
 
@@ -56,5 +56,28 @@ $ flutter packages pub run build_runner build --delete-conflicting-outputs
 
 ![](../.gitbook/assets/cleanshot-2021-08-06-at-14.45.14.jpg)
 
+```dart
+
+```
+
 ![](../.gitbook/assets/cleanshot-2021-08-06-at-14.44.32.jpg)
+
+### 問題
+
+```dart
+Unhandled exception:
+Bad state: Unable to generate package graph, no `/Users/garychien/Documents/project/flutter-native-kit/.dart_tool/flutter_gen/pubspec.yaml` found.
+#0      _pubspecForPath (package:build_runner_core/src/package_graph/package_graph.dart:232:5)
+#1      _parsePackageDependencies (package:build_runner_core/src/package_graph/package_graph.dart:206:21)
+#2      PackageGraph.forPath (package:build_runner_core/src/package_graph/package_graph.dart:101:33)
+<asynchronous suspension>
+#3      main (file:///Users/garychien/Documents/project/flutter/.pub-cache/hosted/pub.dartlang.org/build_runner-2.0.5/bin/build_runner.dart:27:30)
+<asynchronous suspension>
+pub finished with exit code 255
+```
+
+```dart
+flutter clean
+flutter packages pub get
+```
 

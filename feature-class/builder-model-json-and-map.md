@@ -81,3 +81,7 @@ flutter clean
 flutter packages pub get
 ```
 
+### 這邊的設定會影響格式化排版
+
+![](../.gitbook/assets/cleanshot-2021-08-30-at-20.59.52-2x.jpg)
+

@@ -100,4 +100,5 @@
 * [前言](ios/qian-yan.md)
 * [自定義各站台APP名稱](ios/zi-ding-yi-ge-zhan-tai-app-ming-chen.md)
 * [自動定義 Bundle Id](ios/zi-dong-ding-yi-bundle-id.md)
+* [共用 info.plist](ios/gong-yong-info.plist.md)
 
